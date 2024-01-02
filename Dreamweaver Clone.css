@@ -1,0 +1,192 @@
+*{
+    border: 0;
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+.navbar{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+h1{
+    color:#fff;
+    align-self: end;
+   
+    
+}
+
+.add-search{
+    align-self: end;
+    padding-bottom: 8px;
+    margin-right: 15px;
+   
+   
+    
+}
+input{
+    margin-left: 400px;
+    width: 400px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+
+
+
+.add-logo{
+    margin-left:1px;
+    height: 50px;
+    width:80px;
+    background-color:#fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1em;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: #fff;
+
+}
+
+.search-box{
+    display: flex;
+  
+}
+
+
+    /* sub-header */
+
+
+
+
+.sub-header{
+    background-color: #fff;
+    height: 80px;
+    display: flex;
+    
+ 
+   
+}
+#title{
+    padding-top: 29px;
+    text-align: end;
+    margin-right: 10px;
+    margin-left:1000px;
+    display: inline;
+    margin-bottom: 45px;
+ }
+
+
+.logo{
+    
+    background-color: blue;
+   height: 2rem;
+  width: 2rem;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   align-self: self-end;
+   margin-bottom:29px ;
+   border-radius: 3px;
+  
+    
+}
+
+.logo i{
+    color:#fff;
+    display: flex;
+    font-size: 1em;
+   
+}
+
+
+/* hero section */
+
+.hero{
+    margin-top: 5px;
+   text-align: center;
+   
+}
+h2{
+    display: block;
+    
+}
+
+#para{
+    display: block;
+}
+
+
+#begin{
+    margin-right: 10px;
+    color:blue;
+    border:2px solid blue;
+}
+
+
+.btn{
+    font-size: 1em;
+    background-color: #fff;
+    border:2px solid black;
+border-radius: 3px;
+}
+
+.text{
+    font-size:1.5em;
+}
+
+/* learning-section */
+
+.learning-section{
+    margin: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.box{
+    height: 300px;
+    width: 15%;
+    border: 1px solid grey;
+  
+    
+}
+
+.box-img{
+    height: 200px;
+   background-size: cover;
+   
+}
+
+.space{
+    padding-left: 10px;
+}
+
+
+.comment{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    border:3px solid black;
+    border-radius:50% ;
+    margin-left: 50px;
+
+}
+div i{
+    font-size: 1.5em;
+}
+
+.direction{
+    font-size: 1.5em;
+    
+}
